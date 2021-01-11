@@ -52,5 +52,5 @@ module.exports.help = {
 	category: 'Moderation',
 	description: 'Ban a user.',
 	usage: '${PREFIX}ban <user> [reason] [time]',
-	example: '${PREFIX}ban @badPerson Not good 1h',
+	example: '${&}ban @badPerson Not good 1h',
 };
